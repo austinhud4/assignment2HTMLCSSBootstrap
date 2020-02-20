@@ -1,0 +1,32 @@
+nav {
+margin-bottom: 4em;
+font-family: 'Tomorrow', sans-serif;
+}
+
+p {
+font-family: 'EB Garamond', serif;
+}
+
+h1 {
+font-family: 'Tomorrow', sans-serif;
+color: #663C24
+}
+
+.dotted {
+border-bottom: 3px dotted red;
+}
+
+h2 {
+font-size: 6em;
+font-family: 'Tomorrow', sans-serif;
+margin-bottom: 1em;
+}
+
+body {
+background-color: #94B9AF;
+}
+
+button {
+width: 10em;
+font-family: 'Tomorrow', sans-serif;
+}
